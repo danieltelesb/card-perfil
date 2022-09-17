@@ -1,8 +1,10 @@
 # CARD PERFIL HOVER EFFECT  
 
-    Card feito com efeito hover, onde passando o mouse em quaquer parte do card ele se expandirá apresentando informações diversas.
+![preview](./github/preview.png)
 
-![preview](https://danieltelesb.github.io/card-perfil/)
+ Card feito com efeito hover, onde passando o mouse em quaquer parte do card ele se expandirá apresentando informações diversas.
+
+[Clique aqui para acessar](https://danieltelesb.github.io/nlw---explorer/)
 
 ## TECNOLOGIAS
 -HTML
